@@ -1,4 +1,10 @@
-### Hi there 👋
+
+- 👋 Hi, I’m Dipronil Das
+- 👀 I’m interested in reading book, travelling
+- 🌱 I’m currently learning angular, node, Express, MongoDB
+- 📫 How to reach me: dipronildas.net@gmail.com
+- Linkedin https://www.linkedin.com/in/dipronil-das-37041516a/
+- Website https://dipronil-portfolio.herokuapp.com/
 
 <!--
 **Dipronil1998/Dipronil1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
